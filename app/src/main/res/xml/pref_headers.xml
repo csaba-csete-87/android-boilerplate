@@ -3,15 +3,15 @@
     <!-- These settings headers are only used on tablets. -->
 
     <header
-        android:fragment="com.csabacsete.androidboilerplate.SettingsActivity$GeneralPreferenceFragment"
+        android:fragment="com.csabacsete.androidboilerplate.activities.SettingsActivity$GeneralPreferenceFragment"
         android:title="@string/pref_header_general" />
 
     <header
-        android:fragment="com.csabacsete.androidboilerplate.SettingsActivity$NotificationPreferenceFragment"
+        android:fragment="com.csabacsete.androidboilerplate.activities.SettingsActivity$NotificationPreferenceFragment"
         android:title="@string/pref_header_notifications" />
 
     <header
-        android:fragment="com.csabacsete.androidboilerplate.SettingsActivity$DataSyncPreferenceFragment"
+        android:fragment="com.csabacsete.androidboilerplate.activities.SettingsActivity$DataSyncPreferenceFragment"
         android:title="@string/pref_header_data_sync" />
 
 </preference-headers>

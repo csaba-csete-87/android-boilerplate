@@ -1,4 +1,4 @@
-package com.csabacsete.androidboilerplate;
+package com.csabacsete.androidboilerplate.fragments;
 
 
 import android.app.Fragment;

@@ -1,9 +1,11 @@
-package com.csabacsete.androidboilerplate;
+package com.csabacsete.androidboilerplate.activities;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+
+import com.csabacsete.androidboilerplate.R;
 
 
 public class SplashActivity extends Activity {

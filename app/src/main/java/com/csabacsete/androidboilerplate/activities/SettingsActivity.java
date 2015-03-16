@@ -1,4 +1,4 @@
-package com.csabacsete.androidboilerplate;
+package com.csabacsete.androidboilerplate.activities;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -17,6 +17,8 @@ import android.preference.PreferenceManager;
 import android.preference.RingtonePreference;
 import android.text.TextUtils;
 
+
+import com.csabacsete.androidboilerplate.R;
 
 import java.util.List;
 

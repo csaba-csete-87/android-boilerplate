@@ -1,4 +1,4 @@
-package com.csabacsete.androidboilerplate;
+package com.csabacsete.androidboilerplate.activities;
 
 import android.content.Intent;
 import android.content.IntentSender;
@@ -12,6 +12,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
+import com.csabacsete.androidboilerplate.fragments.FragmentIndex;
+import com.csabacsete.androidboilerplate.R;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.plus.Plus;
